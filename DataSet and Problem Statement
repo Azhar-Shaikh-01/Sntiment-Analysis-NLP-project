@@ -1,5 +1,0 @@
-#Dataset:
-The dataset consists of tweets along with their language and sentiment labels. Each tweet is written in a specific language, and the sentiment of the tweet is categorized into one of four classes: positive, negative, uncertainty, or litigious. The dataset contains a total of 17 unique language labels and the corresponding sentiment labels for each tweet.
-
-#Problem Statement:
-The problem is a multilingual sentiment classification task. Given a tweet, the goal is to determine the language in which the tweet is written from the 17 available language labels. Additionally, the sentiment of the tweet needs to be classified into one of the four sentiment categories: positive, negative, uncertainty, or litigious.
